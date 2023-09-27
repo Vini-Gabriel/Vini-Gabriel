@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁⚡
+## Bem-vindo(a) ao perfil do Vini-Gabriel 😁⚡
 
 <div>
    <a href="https://github.com/Vini-Gabriel">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para entrar em contato me segue nas redes sociais abaixo!
  
 <div> 
   <a href="https://instagram.com/vini.gabriel_rn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
